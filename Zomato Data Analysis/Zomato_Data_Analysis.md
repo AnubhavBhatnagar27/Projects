@@ -1,44 +1,42 @@
-<<<<<<< HEAD
-<!-- Zomato Data Analysis -->
+# Zomato Data Analysis
 
-<!-- Overview -->
-This project is an in-depth analysis of the dataset "Zomato-data-.csv", which contains the information regarding restaurants and their order patterns
+## Overview
+This project involves an in-depth analysis of the dataset `Zomato-data-.csv`, which contains information regarding restaurants and their order patterns.
 
-<!-- Key Skills Demonstrated -->
-- Data Cleaning and Pre Processing
+## Key Skills Demonstrated
+- Data Cleaning and Pre-processing
 - Exploratory Data Analysis (EDA)
 - Data Visualization using Python (Pandas, Numpy, Matplotlib, Seaborn)
 
-<!-- Project Objectives -->
+## Project Objectives
 - Explore and analyze the Zomato dataset to gain insights into restaurant trends.
 - Clean the data, handle missing values, and perform exploratory analysis.
 - Create data visualizations to communicate findings.
 
-<!-- Dataset -->
-The Dataset can be found in the very same github repository with the source code.
+## Dataset
+The dataset can be found in the same GitHub repository as the source code.
 
-<!-- Dataset Features -->
-The Dataset used in the project has the following features : 
-- *name* : Name of the Restaurant
-- *online_order* : The Restaurant supports online orders, Yes or No
-- *book_table* : The Restaurant supports table booking, Yes or No
-- *rate* : The Rating of the Restaurant
-- *votes* : The Votes the Restaurant has on a scale of 5
-- *approx_cost* : The Approximate Cost for two people. 
+### Dataset Features
+The dataset used in this project has the following features:
 
-<!-- Key Insights and Findigs -->
-- The majority of the restaurants fall under Dining Category
-- Dining restaurants are preferred by a larger number of individuals
-- Restaurant with maximum number of votes is *Empire Restaurant*
-- Majority of the restaurants do not accept online orders
-- The majority of restaurants received ratings ranging from 3.5 to 4
-- The approximate cost preffered is found out to be 300 rupees
-- Offline orders received lower ratings in comparison to online orders
-- Dining restaurants primarily accept offline orders, whereas cafes primarily receive online orders. This suggests that clients prefer to place orders in person at restaurants, but prefer online ordering at cafes
+- **name**: Name of the restaurant
+- **online_order**: Indicates if the restaurant supports online orders (Yes/No)
+- **book_table**: Indicates if the restaurant supports table booking (Yes/No)
+- **rate**: Rating of the restaurant
+- **votes**: Number of votes the restaurant has received (on a scale of 5)
+- **approx_cost**: Approximate cost for two people
 
-<!-- Author -->
-**ANUBHAV BHATNAGAR**
-B.Tech CSE-DS | IV Semester Student
-LinkedIn:  https://www.linkedin.com/in/anubhavbhatnagar27/
-GitHub: https://github.com/AnubhavBhatnagar27
+## Key Insights and Findings
+- The majority of the restaurants fall under the **Dining** category.
+- **Dining** restaurants are preferred by a larger number of individuals.
+- The restaurant with the maximum number of votes is *Empire Restaurant*.
+- Majority of the restaurants do not accept online orders.
+- The majority of restaurants received ratings ranging from **3.5 to 4**.
+- The approximate cost preferred is found to be **300 rupees**.
+- **Offline orders** received lower ratings compared to **online orders**.
+- **Dining** restaurants primarily accept offline orders, whereas **cafes** mainly receive online orders. This suggests that customers prefer to place orders in person at restaurants but prefer online ordering at cafes.
 
+## Author
+**Anubhav Bhatnagar**  
+B.Tech CSE-DS | IV Semester Student  
+[LinkedIn](https://www.linkedin.com/in/anubhavbhatnagar27/) | [GitHub](https://github.com/AnubhavBhatnagar27)
